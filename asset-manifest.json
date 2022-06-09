@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.71138b2c.css",
+    "main.js": "./static/js/main.27f8a956.js",
+    "static/media/ejercicio.jpg": "./static/media/ejercicio.1f0cfee074e5a09d03c7.jpg",
+    "static/media/peso.jpg": "./static/media/peso.5902323a5e47fe99fa2b.jpg",
+    "static/media/animo.jpg": "./static/media/animo.f165fc7c7ac7c1b25f31.jpg",
+    "static/media/contacto.jpg": "./static/media/contacto.b3e2f435c71d450ade51.jpg",
+    "static/media/ejercicios.jpg": "./static/media/ejercicios.5e4761b5caeed456e70a.jpg",
+    "static/media/alimentacion.jpg": "./static/media/alimentacion.e368f3dae0bcb9ef6c44.jpg",
+    "static/media/frutauno.png": "./static/media/frutauno.56448790ea8514a8b495.png",
+    "static/media/pesas.png": "./static/media/pesas.a47353fba7dbc40e26a6.png",
+    "static/media/salud.jpg": "./static/media/salud.ded67171ac337c1388a3.jpg",
+    "static/media/zanahorias.png": "./static/media/zanahorias.4e46d35dca597ce21c86.png",
+    "static/media/tw.svg": "./static/media/tw.0f6d4bb7d50066aa9aa7.svg",
+    "static/media/ws.svg": "./static/media/ws.c48b8613cd296859f4f1.svg",
+    "static/media/id.svg": "./static/media/id.2eec6962a9c24a429b36.svg",
+    "static/media/ig.svg": "./static/media/ig.779f6f9b86ac0c0462b1.svg",
+    "static/media/fb.svg": "./static/media/fb.10dc8b73fb62c7e7be6f.svg",
+    "index.html": "./index.html",
+    "main.71138b2c.css.map": "./static/css/main.71138b2c.css.map",
+    "main.27f8a956.js.map": "./static/js/main.27f8a956.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71138b2c.css",
+    "static/js/main.27f8a956.js"
+  ]
+}
